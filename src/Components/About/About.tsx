@@ -18,8 +18,7 @@ const About = () => {
               but also perform flawlessly.
             </p>
             <p className="mb-8 leading-relaxed text-black">
-              Currently, I'm pursuing Pre-Engineering at Adamjee Government
-              Science College. I constantly hone my development skills through
+               I constantly hone my development skills through
               personal projects and hands-on learning. Whether it's building
               responsive, eye-catching interfaces or deploying optimized apps on
               platforms like Vercel, I always aim to deliver clean, efficient,
